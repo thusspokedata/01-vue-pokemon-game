@@ -1,25 +1,3 @@
 # 04-pokemon-game
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# 04-vue-pokemon-game
+[link to app](https://vue3-pokemon-game22.netlify.app/)
